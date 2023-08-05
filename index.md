@@ -3,7 +3,7 @@ Japan Technical Jamboreeは、日本の組み込みLinuxの時代を作り・支
 これまで長年にわたってコーディネータを務められた上田さん、宗像さんが第80回をもって退かれ、今後はJapan Technical Jamboreeの継続を願う人たちに引き継がれることとなりました。今後、Japan Technical Jamboreeの名前と思いを残しつつも、新しいメンバーで続けていこうという思いを込めて、名前をJapan Technical Jamboree Episode 2としました。
 
 # 開催案内
-* Japan Technical Jamboree Episode 2 section 1, TBA.
+* [Japan Technical Jamboree Episode 2 section 1, TBA.](./hosted-event/1.md)
 
 
 # 開催済み
