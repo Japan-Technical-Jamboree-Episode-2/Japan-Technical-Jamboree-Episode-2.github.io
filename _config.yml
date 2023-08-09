@@ -1,6 +1,12 @@
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+  
+title: [Japan Technical Jamboree Episode 2]
+description: [Japan Technical Jamboree Episode 2 web page.]
+
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: [Japan Technical Jamboree Episode 2]
-description: [Japan Technical Jamboree Episode 2 web page.]
