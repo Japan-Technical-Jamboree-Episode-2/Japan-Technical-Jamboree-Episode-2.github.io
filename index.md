@@ -11,7 +11,7 @@ Japan Technical Jamboreeは、日本の組み込みLinuxの時代を作り・支
 ---
 
 # 開催案内
-* [Japan Technical Jamboree Episode 2 section 1, 2023/09/29(Fri.).](./hosted-event/1.md)
+* [Japan Technical Jamboree Episode 2 section 1, 2023/09/29(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-2-section-1)
 
 ---
 
