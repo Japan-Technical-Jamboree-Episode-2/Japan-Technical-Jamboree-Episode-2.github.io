@@ -10,7 +10,7 @@ This event had been coordinated by Mr. Ueda and Mr. Munakata from 1st to 80th.  
 ---
 
 # Event information
-* [Japan Technical Jamboree Episode 2 section 1, 2023/09/29(Fri.).](./hosted-event/1.md)
+* [Japan Technical Jamboree Episode 2 section 1, 2023/09/29(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-2-section-1)
 
 ---
 
