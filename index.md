@@ -38,13 +38,3 @@ Japan Technical Jamboreeでは、原則として日本語でディスカッシ�
 
 # 直近の開催予定
 * [Japan Technical Jamboree Episode 2 section 1, 2023/09/29(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-2-section-1)
-
-
----
-
-# 開催済み
-## 組み込みLinux関係のイベント
-* [Embedded Open Source Summit, June 27-30, 2023, Prague, Czech.](./other-event/eoss2023.md)
-
-## Japan Technical Jamboree Episode 1
-* [Japan Technical Jamboree](./other-event/jamboree-ep1.md)
