@@ -36,5 +36,7 @@ Japan Technical Jamboreeでは、原則として日本語でディスカッシ�
 具体的に話してはいけない内容に関しては[行動規範](./code-of-conduct.md)を参照してください。
 
 
-# 直近の開催予定
+# 開催予定
 * [Japan Technical Jamboree Episode 2 section 1, 2023/09/29(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-2-section-1)
+
+- [これまでのイベント](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/past_events)
