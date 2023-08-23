@@ -13,7 +13,7 @@ Japan Technical Jamboreeでは、原則として日本語でディスカッシ�
 
 ## Epsode-2 開催にあたって
 
-これまで長年にわたってコーディネータを務められた上田さん、宗像さんが第80回をもって退かれ、今後の運営はコミュニティに引き継がれることとなりました。Japan Technical Jamboreeの名前と理念を継承しつつも、新しいメンバーで続けていこうという思いを込めて、名前をJapan Technical Jamboree Episode 2としました。
+これまで長年にわたってコーディネータを務められた上田さん、宗像さんが第80回をもって勇退され、今後の運営はコミュニティに引き継がれることとなりました。Japan Technical Jamboreeの名前と理念を継承しつつも、新しいメンバーで続けていこうという思いを込めて、名前をJapan Technical Jamboree Episode 2としました。
 
 ---
 
