@@ -2,26 +2,18 @@ Japanese/[English](./index_en.md)
 
 ---
 
-# はじめに
+# Japan Technical Jamboree について
 
-Japan Technical Jamboreeは、日本の組み込みLinuxの時代を作り・支えてきたCE Linux Forumが、所属する会社の枠組みを超えて自由闊達な技術ディスカッションの場として開催してきたイベントです。2004年10月29日に第１回が開催され、約20年間で80回開催されました。
+Japan Technical Jamboree は、Linux Foundation のCEワークグループから派生した技術ミーティングです。2004年10月29日に第１回が開催され、これまで20年にわたり80回の会合を実施してきました。
+Consumer Electronicsが源流となっているため、組み込み分野、車載などの話題が多いですが、Linux、オープンソースについて幅広く議論を行っています。
 
-これまで長年にわたってコーディネータを務められた上田さん、宗像さんが第80回をもって退かれ、今後はJapan Technical Jamboreeの継続を願う人たちに引き継がれることとなりました。今後、Japan Technical Jamboreeの名前と思いを残しつつも、新しいメンバーで続けていこうという思いを込めて、名前をJapan Technical Jamboree Episode 2としました。
-
----
-
-# 開催案内
-* [Japan Technical Jamboree Episode 2 section 1, 2023/09/29(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-2-section-1)
-
----
-
-# Japan Technical Jamboreeのねらい
-
-家電からはじまった組み込みLinuxは、自動車などの他の産業の分野でも使われるようになっています。Linuxは日々進化を続けており、変化を追いかけるだけでも大変。皆さん、Linuxを使っていくうえでいろんな悩みを抱えているかと思います。自分のアイディアをみんなに知ってもらいたい、どうしてもうまくいかないことを誰かに相談したい、Japan Technical Jamboreeはそういったエンジニアの交流の場になればと考えています。
+現在Linux、OSSはPC、サーバーのOSとしてのみならず、家電、スマートフォンをはじめ、自動車など産業のあらゆる分野で使われるようになっています。Linuxも日々進化を続けており、個人の活動では情報のキャッチアップですら大変な状況です。技術的な課題を共有したい、国内、海外のコミュニティに対しての情報発信を行いたいなど、Japan Technical JamboreeはOSSに関わるすべてのエンジニアの交流の場になればと考えています。
 
 Japan Technical Jamboreeでは、原則として日本語でディスカッションしますが、英語でのプレゼンテーションもウェルカムです。
 
-たくさんのエンジニアが集まる場ですので、自分たちのためにも独占禁止法違反を疑われるような行動は避けてください。具体的に話してはいけない内容に関しては[行動規範](./code-of-conduct.md)を参照してください。
+# Epsode-2 開催にあたって
+
+これまで長年にわたってコーディネータを務められた上田さん、宗像さんが第80回をもって退かれ、今後の運営はコミュニティに引き継がれることとなりました。Japan Technical Jamboreeの名前と理念を継承しつつも、新しいメンバーで続けていこうという思いを込めて、名前をJapan Technical Jamboree Episode 2としました。
 
 ---
 
@@ -37,6 +29,16 @@ Japan Technical Jamboreeでは、原則として日本語でディスカッシ�
 「開催案内」ページに発表登録用のwikiページへのリンクがありますので、そこに自分の発表タイトル、発表者氏名の記載をお願いします。
 
 発表に関しても、会社のメンバーとしての発表、ホビイストとしてほ発表のどちらでも構いません。
+
+## コンプライアンス的な注意事項
+
+多くの企業のエンジニアが集まる場ですので、自分たちのためにも独占禁止法違反を疑われるような行動は避けてください。
+具体的に話してはいけない内容に関しては[行動規範](./code-of-conduct.md)を参照してください。
+
+
+# 直近の開催予定
+* [Japan Technical Jamboree Episode 2 section 1, 2023/09/29(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-2-section-1)
+
 
 ---
 
