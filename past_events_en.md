@@ -1,8 +1,8 @@
-# 過去のイベント
-
+# Past events 
 ---
 
-## 組み込みLinux関係のイベント
+## Embedded Linux related events
+
 * [Embedded Open Source Summit, June 27-30, 2023, Prague, Czech.](./other-event/eoss2023.md)
 
 ## Japan Technical Jamboree Episode 1
