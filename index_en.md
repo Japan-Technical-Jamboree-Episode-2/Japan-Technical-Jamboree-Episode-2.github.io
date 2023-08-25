@@ -2,25 +2,17 @@
 
 ---
 
-# Introduction
-Japan Technical Jamboree was held by CE Linux Forum to aim to provide free technical discussion with Japan site engineers.  That was held in October 29, 2004 at first time. That been held 80 times over the past 20 years.
+# About Japan Technical Jamboree
+Japan Technical Jamboree was held by CE Linux Forum to aim to provide free technical discussion with Japan site engineers.  That was held in October 29, 2004 at first time. That been held 80 times over the past 20 years. This meeting has its origin on consumer electronics development. So we often discuss about a consumer electronics and Linux kernel and embedded systems. But we welcome any discussion about Linux and open source system.
 
-This event had been coordinated by Mr. Ueda and Mr. Munakata from 1st to 80th.  After that, this event take over by new coordinators.  We change name to "Japan Technical Jamboree Episode 2" to show the keeping spirit of Japan Technical Jamboree with new members.
-
----
-
-# Event information
-* [Japan Technical Jamboree Episode 2 section 1, 2023/09/29(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-2-section-1)
-
----
-
-# Objective of Japan Technical Jamboree
 Embedded linux was used in consumer electronics at first. In this time, that use in automotive, industry and more. Linux is much innovative, it improve in every day.
 We think so, every engineer has many issue to use linux.  Japan Technical Jamboree provide discussion and communication space in Japan.  "I want to ask our issue to other engineer", "I want to present new idea to discuss with other engineer", it's ok for us.
 
-This event use Japanese as the native language.  If you would like to perform your presentation in English, we also welcome you to join!
+# About Holding episode 2.
 
-This event join many engineers over the own company.  Everyone must follow the Code of Conduct to avoid violating antitrust laws.  The Code of Conduct show in [this page](./code-of-conduct.md).
+This event had been coordinated by Mr. Ueda and Mr. Munakata from 1st to 80th.  After that, this event take over by new coordinators.  We change name to "Japan Technical Jamboree Episode 2" to show the keeping spirit of Japan Technical Jamboree with new members.
+
+This event use Japanese as the native language.  If you would like to perform your presentation in English, we also welcome you to join!
 
 ---
 
@@ -39,8 +31,17 @@ No limitation for your background.
 
 ---
 
-# Past events
-## Embedded Linux
+## Notice for compliance 
+
+This event join many engineers over the own company.  Everyone must follow the Code of Conduct to avoid violating antitrust laws.  The Code of Conduct show in [this page](./code-of-conduct.md).
+
+---
+
+# Event information
+* [Japan Technical Jamboree Episode 2 section 1, 2023/09/29(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-2-section-1)
+* 
+* # Past events 
+
 * [Embedded Open Source Summit, June 27-30, 2023, Prague, Czech.](./other-event/eoss2023.md)
 
 ## Japan Technical Jamboree Episode 1
