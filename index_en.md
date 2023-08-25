@@ -39,10 +39,4 @@ This event join many engineers over the own company.  Everyone must follow the C
 
 # Event information
 * [Japan Technical Jamboree Episode 2 section 1, 2023/09/29(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-2-section-1)
-* 
-* # Past events 
-
-* [Embedded Open Source Summit, June 27-30, 2023, Prague, Czech.](./other-event/eoss2023.md)
-
-## Japan Technical Jamboree Episode 1
-* [Japan Technical Jamboree](./other-event/jamboree-ep1.md)
+* [Past events](./past_events_en.md)
