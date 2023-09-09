@@ -8,9 +8,9 @@ Japan Technical Jamboree was held by CE Linux Forum to aim to provide free techn
 Embedded linux was used in consumer electronics at first. In this time, that use in automotive, industry and more. Linux is much innovative, it improve in every day.
 We think so, every engineer has many issue to use linux.  Japan Technical Jamboree provide discussion and communication space in Japan.  "I want to ask our issue to other engineer", "I want to present new idea to discuss with other engineer", it's ok for us.
 
-# About Holding episode 2.
+# About Holding episode II.
 
-This event had been coordinated by Mr. Ueda and Mr. Munakata from 1st to 80th.  After that, this event take over by new coordinators.  We change name to "Japan Technical Jamboree Episode 2" to show the keeping spirit of Japan Technical Jamboree with new members.
+This event had been coordinated by Mr. Ueda and Mr. Munakata from 1st to 80th.  After that, this event take over by new coordinators.  We change name to "Japan Technical Jamboree Episode II" to show the keeping spirit of Japan Technical Jamboree with new members.
 
 This event use Japanese as the native language.  If you would like to perform your presentation in English, we also welcome you to join!
 
@@ -38,5 +38,5 @@ This event join many engineers over the own company.  Everyone must follow the C
 ---
 
 # Event information
-* [Japan Technical Jamboree Episode 2 section 1, 2023/09/29(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-II-section-1)
+* [Japan Technical Jamboree Episode II section 1, 2023/09/29(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-II-section-1)
 * [Past events](./past_events_en.md)
