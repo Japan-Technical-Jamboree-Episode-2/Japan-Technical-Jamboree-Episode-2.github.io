@@ -37,7 +37,7 @@ Japan Technical Jamboreeでは、原則として日本語でディスカッシ�
 
 
 # 開催予定
-* [Japan Technical Jamboree Episode II section 2, 2024/03/08(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-II-section-2)
+* [Japan Technical Jamboree Episode II section 3, 2024/06/28(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-II-section-3)
 
 
 - [これまでのイベント](./past_events.md)
