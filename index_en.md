@@ -38,5 +38,7 @@ This event join many engineers over the own company.  Everyone must follow the C
 ---
 
 # Event information
-* [Japan Technical Jamboree Episode II section 1, 2023/09/29(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-II-section-1)
+* [Japan Technical Jamboree Episode II section 3, 2024/06/28(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-II-section-3)
+
+
 * [Past events](./past_events_en.md)
