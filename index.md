@@ -30,6 +30,14 @@ Japan Technical Jamboreeでは、原則として日本語でディスカッシ�
 
 発表に関しても、会社のメンバーとしての発表、ホビイストとしてほ発表のどちらでも構いません。
 
+### Lightning Talkの発表
+Lightning Talkの発表も同様に発表者氏名の記載をお願いします。
+発表タイトルの記載は任意です。
+
+![LT](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/assets/458281/71666ead-7820-44b9-8e0c-8bf6ab9a02a8)
+
+赤線部にカンマ区切りで名前を記載してください。
+
 ## コンプライアンス的な注意事項
 
 多くの企業のエンジニアが集まる場ですので、自分たちのためにも独占禁止法違反を疑われるような行動は避けてください。
