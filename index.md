@@ -45,7 +45,7 @@ Lightning Talkの発表も同様に発表者氏名の記載をお願いします
 
 
 # 開催予定
-* [Japan Technical Jamboree Episode II section 6, 2025/5/16(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-II-section-6)
+* [Japan Technical Jamboree Episode II section 7, 2025/9/12(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-II-section-7)
 
 
 - [これまでのイベント](./past_events.md)
