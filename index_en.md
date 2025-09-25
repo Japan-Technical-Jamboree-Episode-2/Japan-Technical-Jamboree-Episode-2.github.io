@@ -38,6 +38,6 @@ This event join many engineers over the own company.  Everyone must follow the C
 ---
 
 # Event information
-* [Japan Technical Jamboree Episode II section 6, 2025/5/16(Fri.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-II-section-6)
+* https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-II-section-8
 
 * [Past events](./past_events_en.md)
