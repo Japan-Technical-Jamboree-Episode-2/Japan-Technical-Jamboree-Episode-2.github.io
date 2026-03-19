@@ -38,6 +38,6 @@ This event join many engineers over the own company.  Everyone must follow the C
 ---
 
 # Event information
-*  [Japan Technical Jamboree Episode II section 9, 2026/3/19(Thu.).](https://ubinux.atlassian.net/wiki/spaces/LAEDCOM/pages/1339883521/Japan-Technical-Jamboree+EP+II+Session+9)
+*  [Japan Technical Jamboree Episode II section 9, 2026/3/19(Thu.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/blob/main/index.md)
 
 * [Past events](./past_events_en.md)
