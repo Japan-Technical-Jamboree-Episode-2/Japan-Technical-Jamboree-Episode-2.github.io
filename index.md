@@ -45,7 +45,7 @@ Lightning Talkの発表も同様に発表者氏名の記載をお願いします
 
 
 # 開催予定
-* [Japan Technical Jamboree Episode II section 9, 2026/3/19(Thu.).](https://ubinux.atlassian.net/wiki/spaces/LAEDCOM/pages/1339883521/Japan-Technical-Jamboree+EP+II+Session+9)
+* [Japan Technical Jamboree Episode II section 9, 2026/3/19(Thu.).](https://github.com/Japan-Technical-Jamboree-Episode-2/Japan-Technical-Jamboree-Episode-2.github.io/wiki/Japan-Technical-Jamboree-Episode-II-section-9)
 
 
 - [これまでのイベント](./past_events.md)
